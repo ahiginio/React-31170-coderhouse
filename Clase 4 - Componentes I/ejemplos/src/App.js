@@ -15,7 +15,6 @@ function App() {
         </Container>
       </main>
       <Footer greeting={"Hola mundo"} greeting2={"Segundo saludo"}  greeting3={"Tercer saludo"}/>
-      
     </div>
   );
 }
