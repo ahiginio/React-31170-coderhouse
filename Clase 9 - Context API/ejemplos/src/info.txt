@@ -1,0 +1,14 @@
+State UpLifting : 
+
+
+1 - Tenes un componente A (padre) y B (hijo)
+
+2 - El A le puede pasar info a B por props
+
+3 - El A le tiene que pasar al hijo una funcion
+
+4 - El B recibe esa funcion por props
+
+5 - La funcion recibida en B se ejecuta en un evento
+
+6 - A la funcion le pasamos como parametro info que esta en el B
